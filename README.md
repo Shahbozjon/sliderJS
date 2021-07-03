@@ -1,2 +1,2 @@
 # sliderJS
-It is beautifel slider
+It is a beautifel slider
